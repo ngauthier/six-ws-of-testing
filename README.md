@@ -1,8 +1,6 @@
 # The 6 Ws of Testing
 
-* A Guided Panel of One
-
-## Be Objective
+## My Goal: Be Objective
 
 * Like a good reporter
 * I will fail
@@ -22,17 +20,35 @@
 
 * There are other "tips and tricks" talks
 * There are tons of blog posts of examples
-* You are smart, you can read the docs
+* You are smart
+* I have points to prompt discussion
+* Interrupt me!
+* Seriously, right now, while I read this slide to you. Do it.
+* Wise guy
 
-## The Ws
+## The 6 Ws
 
 * http://en.wikipedia.org/wiki/Five_Ws
-* Who (dr who)
 * Why (family guy philosopher) 
+* Who (dr who)
 * When (back to the future delorean)
 * Where (in the world is carmen san diego)
 * What (what 'chu talkin' bout willis?)
 * How (the way things work)
+
+## Why
+
+* Quailty
+* Client says so
+* Boss says so
+* Psychic says so
+* To save time (testing payoff curve)
+  * Five months from now, do you know *why* you wrote it like that or why it works like that?
+  ( snippet of some ruby golf - maybe from a programming challenge w/ test suite)
+* To write what you need? (test-first, TDD)
+* To sleep at night?
+
+* Ask: Why do you want to test? (Why are you here?)
 
 ## Who
 
@@ -45,37 +61,30 @@
 * No-one
 * You
 
-## Why
-
-* Quailty
-* The client says so
-* My boss says so
-* My psychic says so
-* To save time (testing payoff curve)
-  * Five months from now, do you know *why* you wrote it like that or why it works like that?
-  ( snippet of some ruby golf - maybe from a programming challenge w/ test suite)
-* To write what you need? (test-first, TDD)
-* To sleep at night?
+* Ask: Who should test (discuss)
 
 ## When
 
 * When the problem is difficult
-* When you don't know what you want to do
-* When you know what you want to do
+* When the problem is easy
+* When you don't know what to do
+* When you do know what to do
 * At the end
 * In the beginning
 * All of the time
 * Most of the time
 * What is the payoff
-* how much is worth it?
+* How much is worth it?
 
 ## Where
 
+* ... in the world
 * The QA department
 * India
 * Side by side
 * In the code
 
+* ... in the code
 * Bottom level
 * Mid Level
 * High Level
@@ -83,9 +92,13 @@
 
 ## What
 
-* The libraries we use
-* Our internal code
-* External-facing (end-user) code
+* A tree data structure?
+* A sorting algorithm?
+* Your DB queries?
+* The html you generate?
+* AJAX Calls?
+* Javascript you wrote?
+* CSS rollovers?
 
 * How it behaves (overparenting)
 * Five year old buys a candy bar
@@ -95,8 +108,6 @@
 * What do we care about
 * Input => Work => Results
 * Black box
-* Overkill?
-
 
 ## How
 
@@ -105,12 +116,16 @@
 * Asking a good question is important
 * Code.awesome? => true => Done!
 * Ask a simple question (too simple?)
+    * Example
 * Ask a complicated question (too complicated?)
+    * Example
 * Ask an appropriate question
   When I register on the site
   Then 
     * there should be 47 users
+    or
     * there should be one more user
+    or
     * I can log in
 
 * Don't ask redundant questions
@@ -123,7 +138,6 @@
 * How much do you trust the code?
 * Trust other tests
 
-
 * stick to the level
 * don't ask low level questions during a high level test
 * don't ask high level questions during a low level test
@@ -134,8 +148,13 @@
 * what is the most cost-effective?
 * the most productive
 * If we knew, this would have been very boring
-* Always ask questions
-* There are no pure answers
+
+## Questions
+
+* That was a statement
+* Testing is about asking questions
+* Learn to ask the right questions
+* Questions? (Seriously)
 
 
 
