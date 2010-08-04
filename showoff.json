@@ -1,0 +1,17 @@
+{
+  "name": "The Six Ws of Testing",
+  "sections": [
+    { "section" : "01-intro" },
+    { "section" : "02-goal" },
+    { "section" : "03-google" },
+    { "section" : "04-philosophical" },
+    { "section" : "05-six-ws" },
+    { "section" : "06-why" },
+    { "section" : "07-who" },
+    { "section" : "08-when" },
+    { "section" : "09-where" },
+    { "section" : "10-what" },
+    { "section" : "11-how" },
+    { "section" : "12-questions" }
+  ]
+}

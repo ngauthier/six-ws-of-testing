@@ -1,12 +1,3 @@
-# The 6 Ws of Testing
-
-## My Goal: Be Objective
-
-* Like a good reporter
-* I will fail
-* Opinions are subjective
-* Ignore Me!
-
 ## Google results
 
 * Testing: 251m
