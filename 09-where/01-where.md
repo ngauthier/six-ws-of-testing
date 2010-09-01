@@ -1,8 +1,6 @@
 !SLIDE
 # Where
-
-!SLIDE
-# ... in the world
+## in the world
 
 !SLIDE
 # The QA department
@@ -14,7 +12,8 @@
 # Side by side
 
 !SLIDE
-# ... in the code
+# Where
+## in the code
 
 !SLIDE
 # Bottom level

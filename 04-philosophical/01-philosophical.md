@@ -2,10 +2,10 @@
 # Philosophical
 
 !SLIDE
-# "tips and tricks" talks
+# ∃ "tips and tricks" talks
 
 !SLIDE
-# tons of blog posts of examples
+# ∃ tons of blog posts of examples
 
 !SLIDE
 # You are smart

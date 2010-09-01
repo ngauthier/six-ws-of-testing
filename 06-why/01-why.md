@@ -16,6 +16,7 @@
 !SLIDE center
 # To save time
 ![Devver ROI](devver-roi.jpg)
+#### thanks @devver
 
 !SLIDE
 # For five months from now
@@ -30,6 +31,6 @@
 
 !SLIDE
 # Why do you want to test?
-## Why are you here?
+## (Why are you here?)
 
 

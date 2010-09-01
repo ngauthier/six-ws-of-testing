@@ -17,9 +17,11 @@
 # Asking a good question is important
 
 !SLIDE
-# Code.awesome? 
-# => true
-# => Done!
+    @@@ ruby 
+    Code.awesome? 
+     => true
+
+# Done
 
 !SLIDE center
 # Ask a simple question

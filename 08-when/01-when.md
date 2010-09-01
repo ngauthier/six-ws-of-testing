@@ -8,10 +8,14 @@
 # When the problem is easy
 
 !SLIDE
-# When you don't know what to do
+# When you
+# don't
+# know what to do
 
 !SLIDE
-# When you do know what to do
+# When you
+# do
+# know what to do
 
 !SLIDE
 # At the end
