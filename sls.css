@@ -17,6 +17,7 @@ h3 {
   background-image: url('/image/sls-209x36.png');
   background-repeat: no-repeat;
   background-position: right bottom;
+  background-size: initial;
 }
 
 a, a:hover, a:visited {
